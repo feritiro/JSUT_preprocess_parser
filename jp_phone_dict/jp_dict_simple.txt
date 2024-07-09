@@ -1,250 +1,5 @@
-あ  a
-い  i
-う  u
-え  e
-お  o
-か  ka
-き  ki
-きゃ  kya
-きゅ  kyu
-きょ  kyo
-く  ku
-くぁ  ku k_wa
-くぃ  ku k_wi
-くぇ  ku k_we
-くぉ  ku k_wo
-け  ke
-こ  ko
-さ  sa
-し  shi
-しゃ  sh sh_a
-しゅ  sh sh_u
-しょ  sh sh_o
-す  su
-すぁ  su s_wa
-すぃ  su s_wi
-すぇ  su s_we
-すぉ  su s_wo
-せ  se
-そ  so
-た  ta
-ち  chi
-ちゃ  ch ch_a
-ちゅ  ch ch_u
-ちょ  ch ch_o
-つ  tsu
-つぁ  ts ts_a
-つぃ  ts ts_i
-つぇ  ts ts_e
-つぉ  ts ts_o
-て  te
-と  to
-な  na
-に  ni
-にゃ  nya
-にゅ  nyu
-にょ  nyo
-ぬ  nu
-ぬぁ  nu n_wa
-ぬぃ  nu n_wi
-ぬぇ  nu n_we
-ぬぉ  nu n_wo
-ね  ne
-の  no
-は  wa
-ひ  hi
-ひゃ  hya
-ひゅ  hyu
-ひょ  hyo
-ふ  fu
-ふぁ  f f_a
-ふぃ  f f_i
-ふぇ  f f_e
-ふぉ  f f_o
-へ  he
-ほ  ho
-ま  m m_a
-み  m m_i
-みゃ  m m_ya
-みゅ  m m_yu
-みょ  m m_yo
-む  m m_u
-め  m m_e
-も  m m_o
-や  ya
-ゆ  yu
-よ  yo
-ら  ra
-り  ri
-りゃ  ri r_ya
-りゅ  ri r_yu
-りょ  ri r_yo
-る  ru
-れ  re
-ろ  ro
-わ  wa
-を  o
-が  ga
-ぎ  gi
-ぎゃ  gya 
-ぎゅ  gyu 
-ぎょ  gyo 
-ぐ  gu
-げ  ge
-ご  go
-ざ  za
-じ  ji
-じゃ  j j_a
-じゅ  j j_u
-じょ  j j_o
-ず  zu
-ぜ  ze
-ぞ  zo
-だ  da
-ぢ  di
-づ  du
-で  de
-ど  do
-ば  b b_a
-び  b b_i
-びゃ  b b_ya
-びゅ  b b_yu
-びょ  b b_yo
-ぶ  b b_u
-べ  b b_e
-ぼ  b b_o
-ぱ  p p_a
-ぴ  p p_i
-ぴゃ  p p_ya
-ぴゅ  p p_yu
-ぴょ  p p_yo
-ぷ  p p_u
-ぺ  p p_e
-ぽ  p p_o
-ん  nn
-あん  an
-いん  in
-うん  un
-えん  en
-おん  on
-かん  kan
-きん  kin
-きゃん  kyan
-きゅん  kyun
-きょん  kyon
-くん  kun
-くぁん  ku k_wan
-くぃん  ku k_win
-くぇん  ku k_wen
-くぉん  ku k_won
-けん  ken
-こん  kon
-さん  san
-しん  shin
-しゃん  sh sh_an
-しゅん  sh sh_un
-しょん  sh sh_on
-すん  sun
-すぁん  su s_wan
-すぃん  su s_win
-すぇん  su s_wen
-すぉん  su s_won
-せん  sen
-そん  son
-たん  tan
-ちん  chin
-ちゃん  ch ch_an
-ちゅん  ch ch_un
-ちょん  ch ch_on
-つん  tsun
-つぁん  ts ts_an
-つぃん  ts ts_in
-つぇん  ts ts_en
-つぉん  ts ts_on
-てん  ten
-とん  ton
-なん  nan
-にん  nin
-にゃん  nyan
-にゅん  nyun
-にょん  nyon
-ぬん  nun
-ぬぁん  nu n_wan
-ぬぃん  nu n_win
-ぬぇん  nu n_wen
-ぬぉん  nu n_won
-ねん  nen
-のん  non
-はん  han
-ひん  hin
-ひゃん  hyan
-ひゅん  hyun
-ひょん  hyon
-ふん  fun
-ふぁん  f f_wan
-ふぃん  f f_win
-ふぇん  f f_wen
-ふぉん  f f_won
-へん  hen
-ほん  hon
-まん  m m_an
-みん  m m_in
-みゃん  m m_yan
-みゅん  m m_yun
-みょん  m m_yon
-むん  m m_un
-めん  m m_en
-もん  m m_on
-やん  yan
-ゆん  yun
-よん  yon
-らん  ran
-りん  rin
-りゃん  ri r_yan
-りゅん  ri r_yun
-りょん  ri r_yon
-るん  run
-れん  ren
-ろん  ron
-わん  wan
-をん  on
-がん  gan
-ぎん  gin
-ぎゃん  gyan
-ぎゅん  gyun
-ぎょん  gyon
-ぐん  gun
-げん  gen
-ごん  gon
-ざん  zan
-じん  jin
-じゃん  j j_an
-じゅん  j j_un
-じょん  j j_on
-ずん  zun
-ぜん  zen
-ぞん  zon
-だん  dan
-ぢん  din
-づん  zun
-でん  den
-どん  don
-ばん  b b_an
-びん  b b_in
-びゃん  b b_yan
-びゅん  b b_yun
-びょん  b b_yon
-ぶん  b b_un
-べん  b b_en
-ぼん  b b_on
-ぱん  p p_an
-ぴん  p p_in
-ぴゃん  p p_yan
-ぴゅん  p p_yun
-ぴょん  p p_yon
-ぷん  p p_un
-ぺん  p p_en
-ぽん  p p_on
+は  w a
+へ  e
 ア  a
 イ  i
 ウ  u
@@ -252,122 +7,122 @@
 オ  o
 カ  ka
 キ  ki
-キャ  kya
-キュ  kyu
-キョ  kyo
+キャ  ki a
+キュ  ki u
+キョ  ki o
 ク  ku
-クァ  ku k_wa
-クィ  ku k_wi
-クェ  ku k_we
-クォ  ku k_wo
+クァ  ku a
+クィ  ku i
+クェ  ku e
+クォ  ku o
 ケ  ke
 コ  ko
-サ  sa
-シ  shi
-シャ  sh sh_a
-シュ  sh sh_u
-ショ  sh sh_o
-ス  su
-スァ  su s_wa
-スィ  su s_wi
-スェ  su s_we
-スォ  su s_wo
-セ  se
-ソ  so
-タ  ta
-チ  chi
-チャ  ch ch_a
-チュ  ch ch_u
-チョ  ch ch_o
-ツ  tsu
-ツァ  ts ts_a
-ツィ  ts ts_i
-ツェ  ts ts_e
-ツォ  ts ts_o
-テ  te
-ト  to
-ナ  na
+サ  s a
+シ  sh i
+シャ  sh a
+シュ  sh u
+ショ  sh o
+ス  s u
+スァ  s u a
+スィ  s u i
+スェ  s u e
+スォ  s u o
+セ  s e
+ソ  s o
+タ  t a
+チ  ch i
+チャ  ch a
+チュ  ch u
+チョ  ch o
+ツ  ts u
+ツァ  ts a
+ツィ  ts i
+ツェ  ts e
+ツォ  ts o
+テ  t e
+ト  t o
+ナ  n a
 ニ  ni
-ニャ  nya
-ニュ  nyu
-ニョ  nyo
+ニャ  ni a
+ニュ  ni u
+ニョ  ni o
 ヌ  nu
-ヌァ  nu n_wa
-ヌィ  nu n_wi
-ヌェ  nu n_we
-ヌォ  nu n_wo
-ネ  ne
-ノ  no
+ヌァ  nu a
+ヌィ  nu i
+ヌェ  nu e
+ヌォ  nu o
+ネ  n e
+ノ  n o
 ハ  ha
 ヒ  hi
-ヒャ  hya
-ヒュ  hyu
-ヒョ  hyo
-フ  fu
-ファ  f f_a
-フィ  f f_i
-フェ  f f_e
-フォ  f f_o
+ヒャ  hi a
+ヒュ  hi u
+ヒョ  hi o
+フ  f u
+ファ  f a
+フィ  f i
+フェ  f e
+フォ  f o
 ヘ  he
 ホ  ho
-マ  m m_a
-ミ  m m_i
-ミャ  m m_ya
-ミュ  m m_yu
-ミョ  m m_yo
-ム  m m_u
-メ  m m_e
-モ  m m_o
-ヤ  ya
-ユ  yu
-ヨ  yo
+マ  m a
+ミ  m i
+ミャ  m i a
+ミュ  m i u
+ミョ  m i o
+ム  m u
+メ  m e
+モ  m o
+ヤ  i a
+ユ  i u
+ヨ  i o
 ラ  ra
 リ  ri
-リャ  ri r_ya
-リュ  ri r_yu
-リョ  ri r_yo
+リャ  ri a
+リュ  ri u
+リョ  ri o
 ル  ru
 レ  re
 ロ  ro
-ワ  wa
+ワ  w a
 ヲ  o
-ガ  ga
-ギ  gi
-ギャ  gya 
-ギュ  gyu 
-ギョ  gyo 
-グ  gu
-ゲ  ge
-ゴ  go
-ザ  za
+ガ  g a
+ギ  g i
+ギャ  g i a 
+ギュ  g i u 
+ギョ  g i o 
+グ  g u
+ゲ  g e
+ゴ  g o
+ザ  z a
 ジ  ji
-ジャ  j j_a
-ジュ  j j_u
-ジョ  j j_o
-ズ  zu
-ゼ  ze
-ゾ  zo
-ダ  da
-ヂ  di
-ヅ  du
-デ  de
-ド  do
-バ  b b_a
-ビ  b b_i
-ビャ  b b_ya
-ビュ  b b_yu
-ビョ  b b_yo
-ブ  b b_u
-ベ  b b_e
-ボ  b b_o
-パ  p p_a
-ピ  p p_i
-ピャ  p p_ya
-ピュ  p p_yu
-ピョ  p p_yo
-プ  p p_u
-ペ  p p_e
-ポ  p p_o
+ジャ  ji a
+ジュ  ji u
+ジョ  ji o
+ズ  z u
+ゼ  z e
+ゾ  z o
+ダ  d a
+ヂ  d i
+ヅ  d zu
+デ  d e
+ド  d o
+バ  b a
+ビ  b i
+ビャ  b i a
+ビュ  b i u
+ビョ  b i o
+ブ  b u
+ベ  b e
+ボ  b o
+パ  p a
+ピ  p i
+ピャ  p i a
+ピュ  p i u
+ピョ  p i o
+プ  p u
+ペ  p e
+ポ  p o
 ン  nn
 アン  an
 イン  in
@@ -376,152 +131,152 @@
 オン  on
 カン  kan
 キン  kin
-キャン  kyan
-キュン  kyun
-キョン  kyon
+キャン  ki an
+キュン  ki un
+キョン  ki on
 クン  kun
-クァン  ku k_wan
-クィン  ku k_win
-クェン  ku k_wen
-クォン  ku k_won
+クァン  ku an
+クィン  ku in
+クェン  ku en
+クォン  ku on
 ケン  ken
 コン  kon
-サン  san
-シン  shin
-シャン  sh sh_an
-シュン  sh sh_un
-ション  sh sh_on
-スン  sun
-スァン  su s_wan
-スィン  su s_win
-スェン  su s_wen
-スォン  su s_won
-セン  sen
-ソン  son
-タン  tan
-チン  chin
-チャン  ch ch_an
-チュン  ch ch_un
-チョン  ch ch_on
-ツン  tsun
-ツァン  ts ts_an
-ツィン  ts ts_in
-ツェン  ts ts_en
-ツォン  ts ts_on
-テン  ten
-トン  ton
-ナン  nan
-ニン  nin
-ニャン  nyan
-ニュン  nyun
-ニョン  nyon
+サン  s an
+シン  sh in
+シャン  sh an
+シュン  sh un
+ション  sh on
+スン  s un
+スァン  s u an
+スィン  s u in
+スェン  s u en
+スォン  s u on
+セン  s en
+ソン  s on
+タン  t an
+チン  ch in
+チャン  ch an
+チュン  ch un
+チョン  ch on
+ツン  ts un
+ツァン  ts an
+ツィン  ts in
+ツェン  ts en
+ツォン  ts on
+テン  t en
+トン  t on
+ナン  n an
+ニン  ni in
+ニャン  ni an
+ニュン  ni un
+ニョン  ni on
 ヌン  nun
-ヌァン  nu n_wan
-ヌィン  nu n_win
-ヌェン  nu n_wen
-ヌォン  nu n_won
-ネン  nen
-ノン  non
+ヌァン  nu an
+ヌィン  nu in
+ヌェン  nu en
+ヌォン  nu on
+ネン  n en
+ノン  n on
 ハン  han
 ヒン  hin
-ヒャン  hyan
-ヒュン  hyun
-ヒョン  hyon
-フン  fun
-ファン  f f_an
-フィン  f f_in
-フェン  f f_en
-フォン  f f_on
+ヒャン  hi an
+ヒュン  hi un
+ヒョン  hi on
+フン  f un
+ファン  f an
+フィン  f in
+フェン  f en
+フォン  f on
 ヘン  hen
 ホン  hon
-マン  m m_an
-ミン  m m_in
-ミャン  m m_yan
-ミュン  m m_yun
-ミョン  m m_yon
-ムン  m m_un
-メン  m m_en
-モン  m m_on
-ヤン  yan
-ユン  yun
-ヨン  yon
+マン  m an
+ミン  m in
+ミャン  m i an
+ミュン  m i un
+ミョン  m i on
+ムン  m un
+メン  m en
+モン  m on
+ヤン  i an
+ユン  i un
+ヨン  i on
 ラン  ran
 リン  rin
-リャン  ri r_yan
-リュン  ri r_yun
-リョン  ri r_yon
+リャン  ri an
+リュン  ri un
+リョン  ri on
 ルン  run
 レン  ren
 ロン  ron
-ワン  wan
+ワン  w an
 ヲン  on
-ガン  gan
-ギン  gin
-ギャン  gyan
-ギュン  gyun
-ギョン  gyon
-グン  gun
-ゲン  gen
-ゴン  gon
-ザン  zan
-ジン  jin
-ジャン  j j_an
-ジュン  j j_un
-ジョン  j j_on
-ズン  zun
-ゼン  zen
-ゾン  zon
-ダン  dan
-ヂン  din
-ヅン  dun
-デン  den
-ドン  don
-バン  b b_an
-ビン  b b_in
-ビャン  b b_yan
-ビュン  b b_yun
-ビョン  b b_yon
-ブン  b b_un
-ベン  b b_en
-ボン  b b_on
-パン  p p_an
-ピン  p p_in
-ピャン  p p_yan
-ピュン  p p_yun
-ピョン  p p_yon
-プン  p p_un
-ペン  p p_en
-ポン  p p_on
-ウェ  we
-ウォ  wo
-ウェン  wen
-ウォン  won
+ガン  g an
+ギン  g in
+ギャン  g i an
+ギュン  g i un
+ギョン  g i on
+グン  g un
+ゲン  g en
+ゴン  g on
+ザン  z an
+ジン  j in
+ジャン  j an
+ジュン  j un
+ジョン  j on
+ズン  z un
+ゼン  z en
+ゾン  z on
+ダン  d an
+ヂン  j in
+ヅン  j z un
+デン  d en
+ドン  d on
+バン  b an
+ビン  b in
+ビャン  b i an
+ビュン  b i un
+ビョン  b i on
+ブン  b un
+ベン  b en
+ボン  b on
+パン  p an
+ピン  p in
+ピャン  p i an
+ピュン  p i un
+ピョン  p i on
+プン  p un
+ペン  p en
+ポン  p on
+ウェ  w e
+ウォ  w o
+ウェン  w en
+ウォン  w on
 ヴ  vu
-ヴァ  v v_a
-ヴィ  v v_i
-ヴェ  v v_e
-ヴォ  v v_o
-ヴャ  v v_ya
-ヴュ  v v_yu
-ヴョ  v v_yo
-ヴァン  v v_an
-ヴィン  v v_in
-ヴェン  v v_en
-ヴォン  v v_on
-ヴャン  v v_yan
-ヴュン  v v_yun
-ヴョン  v v_yon
-シェ  sh she
-ジェ  j je
-ディ  di
-シェン  sh sh_en
-ディン  din
-シェン  sh sh_en
-ジェン  j j_en
-ディン  din
-チェ  ch ch_e
-チェン  ch ch_en
-ルィ  ryu
-ルィン  ryun
-ティ  ti
-ティン  tin
+ヴァ  v a
+ヴィ  v i
+ヴェ  v e
+ヴォ  v o
+ヴャ  v a
+ヴュ  v u
+ヴョ  v i o
+ヴァン  v an
+ヴィン  v in
+ヴェン  v en
+ヴォン  v on
+ヴャン  v an
+ヴュン  v un
+ヴョン  v i on
+シェ  sh e
+ジェ  j e
+ディ  d i
+シェン  sh en
+ディン  d in
+シェン  sh en
+ジェン  j en
+ディン  d in
+チェ  ch e
+チェン  ch en
+ルィ  ri u
+ルィン  ri un
+ティ  ch i
+ティン  ch in
